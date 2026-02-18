@@ -1,123 +1,122 @@
-<img align="center" alt="Banner" src="https://user-images.githubusercontent.com/74038190/216656977-7e7d3a2b-36b1-4e1f-bdd2-2d7cb6805ae0.gif"/>
-
-<h1 align="left">
-  Hi, I'm <strong>Revanth Kumar Pujari</strong>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=0E76A8&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Revanth+Kumar+Pujari;Full+Stack+Development+Learner;Database+%26+Data+Systems+Enthusiast;Power+BI+%7C+SQL+Server+%7C+MERN" />
 </h1>
 
-<h3>Full Stack Development Learner | Database & Data Systems Enthusiast</h3>
+---
 
-<div align="left">
+<h3 align="center">🚀 Building Practical Web Systems with Structured Data</h3>
 
-  <p>
-    I'm a BTech student focused on building practical web applications while strengthening my backend and database fundamentals.
-  </p>
+<div align="center">
 
-  <p>
-    Currently improving my skills in the MERN stack and learning SQL Server with T-SQL concepts such as stored procedures, variables, and structured querying.
-  </p>
-
-  <p>
-    I enjoy working on UI development and understanding how structured databases power real-world applications. Alongside web development, I explore Generative AI tools and no-code platforms to improve productivity and consistency in learning.
-  </p>
-
-  <p>
-    <img src="https://img.shields.io/badge/📍_Rayachoti,_Kadapa,_India-1e1e2e?style=for-the-badge" />
-    <a href="mailto:revanthkumar2835@gmail.com">
-      <img src="https://img.shields.io/badge/📧_revanthkumar2835@gmail.com-1e1e2e?style=for-the-badge" />
-    </a>
-    <img src="https://img.shields.io/badge/🎯_Open_to_Internships_&_Entry_Level_Roles-1e1e2e?style=for-the-badge" />
-  </p>
+<img src="https://komarev.com/ghpvc/?username=Revanth2835&style=for-the-badge&color=blue" />
 
 </div>
 
-<br/>
+---
+
+## 👨‍💻 About Me
+
+- 🎓 BTech Student focused on practical web application development  
+- ⚙️ Improving skills in **MERN Stack** and backend fundamentals  
+- 🗄️ Learning **SQL Server & T-SQL** (Stored Procedures, Variables, Structured Queries)  
+- 📊 Building dashboards using **Power BI**  
+- 🤖 Exploring Generative AI & No-Code tools  
+- 🎯 Open to **Internships & Entry-Level Roles**
+
+---
+
+## 📍 Contact & Location
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Location-Rayachoti,_Kadapa,_India-0A66C2?style=for-the-badge" />
+  <a href="mailto:revanthkumar2835@gmail.com">
+    <img src="https://img.shields.io/badge/Email-revanthkumar2835@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
 ## 🌐 Professional Profiles
 
 <p align="left">
-
   <a href="https://github.com/Revanth2835">
-    <img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
   </a>
-
   <a href="https://www.linkedin.com/in/revanth-kumar-pujari/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-
   <a href="https://leetcode.com/u/revanth32d4/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
-
   <a href="https://www.hackerrank.com/profile/revanthpujari">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
   </a>
-
 </p>
 
 ---
 
-## 🛠️ Technical Skills
+# 🛠 Tech Stack
 
-<p align="center">
-<table>
-<tr>
-<td width="50%" align="center">
-
-<h3>💻 Programming</h3>
-<img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js" />
-
-</td>
-
-<td width="50%" align="center">
-
-<h3>⚙️ Web Development</h3>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express" />
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" align="center">
-
-<h3>🗄️ Database</h3>
-<img src="https://skillicons.dev/icons?i=mysql" />
-<br/>
-<p>SQL Server (Learning T-SQL, Stored Procedures, Variables)</p>
-
-</td>
-
-<td width="50%" align="center">
-
-<h3>🧰 Tools</h3>
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
-<br/>
-<p>Excel</p>
-
-</td>
-</tr>
-</table>
+## 💻 Programming
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js" />
 </p>
+
+## ⚙️ Web Development
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express" />
+</p>
+
+## 🗄 Database
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+- SQL Server (Learning T-SQL, Stored Procedures, Variables)
 
 ---
 
-## 📊 Power BI & Data Visualization
+# 📊 Power BI & Data Visualization
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=powerbi" />
 </p>
 
-<p align="center">
-  Building interactive dashboards and visual reports using Power BI for structured data analysis.
-</p>
+- Creating interactive dashboards  
+- Data analysis & reporting  
+- Working with structured datasets  
 
 ---
 
-## 📈 GitHub Activity
+# 📈 GitHub Activity
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Revanth2835&theme=default&hide_border=true" />
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Revanth2835&layout=compact&hide_border=true" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=Revanth2835&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=Revanth2835&theme=tokyonight&hide_border=true" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Revanth2835&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+# 🚀 Currently Learning
+
+- Advanced SQL Server  
+- Backend API Development (Node + Express)  
+- Advanced React Concepts  
+- MSBI Basics  
+
+---
+
+<div align="center">
+
+### ⭐ Focused on consistency. Building step by step.
+
 </div>
