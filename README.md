@@ -92,7 +92,7 @@
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Revanth2835&theme=tokyo-night&hide_border=true&area=true" />
+<img src="https://ghchart.rshah.org/0e76a8/Revanth2835" alt="Revanth2835's GitHub Contribution Chart" />
 
 <br/>
 
