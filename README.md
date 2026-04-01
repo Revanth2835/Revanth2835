@@ -2,14 +2,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=0E76A8&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Revanth+Kumar+Pujari;Full+Stack+Development+Learner;Database+%26+Data+Systems+Enthusiast;Power+BI+%7C+SQL+Server+%7C+MERN" />
 </h1>
 
----
-
 <h3 align="center">🚀 Building Practical Web Systems with Structured Data</h3>
 
 <div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Revanth2835&style=for-the-badge&color=blue" />
-
+  <img src="https://komarev.com/ghpvc/?username=Revanth2835&style=for-the-badge&color=blue" />
 </div>
 
 ---
@@ -78,10 +74,6 @@
 
 # 📊 Power BI & Data Visualization
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=powerbi" />
-</p>
-
 - Creating interactive dashboards  
 - Data analysis & reporting  
 - Working with structured datasets  
@@ -92,11 +84,15 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Revanth2835&show_icons=true&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=Revanth2835&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=Revanth2835&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=Revanth2835&theme=tokyonight&hide_border=true&count_private=true&mode=weekly" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Revanth2835&theme=tokyo-night&hide_border=true&area=true" />
 
 <br/>
 
