@@ -88,11 +88,7 @@
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=Revanth2835&theme=tokyonight&hide_border=true&timezone=Asia%2FKolkata&mode=daily" />
-
-<br/>
-
-<img src="https://ghchart.rshah.org/0e76a8/Revanth2835" alt="Revanth2835's GitHub Contribution Chart" />
+<img src="https://streak-stats.demolab.com?user=Revanth2835&theme=tokyonight&hide_border=true&timezone=Asia%2FKolkata" />
 
 <br/>
 
