@@ -88,7 +88,7 @@
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=Revanth2835&theme=tokyonight&hide_border=true&count_private=true&mode=weekly" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Revanth2835&theme=tokyonight&hide_border=true&timezone=Asia%2FKolkata&mode=daily&count_private=true" />
 
 <br/>
 
